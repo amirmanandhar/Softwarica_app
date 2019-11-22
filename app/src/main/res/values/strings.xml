@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MY APP</string>
+    <string name="title_activity_login">login</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_register">Add Details</string>
+    <string name="nav_about">About us</string>
+</resources>
